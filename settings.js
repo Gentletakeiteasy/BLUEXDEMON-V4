@@ -2,9 +2,9 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 
-global.pairingNumber = "234704103936"
+global.pairingNumber = "2348020674070"
  
-global.botNumber = ["234704103936"]
+global.botNumber = ["2348020674070"]
 
 global.sign = "✘"
 // ☞ ➻ ➽ ☛ 
@@ -71912,7 +71912,7 @@ global.setmenu = "image"
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🐦‍🔥'
 global.autoreact = false
-global.public = true
+global.public = false
 global.baileysMd = true
 global.antiSpam = true
 global.multi = false
